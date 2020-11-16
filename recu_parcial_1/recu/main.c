@@ -64,7 +64,7 @@ int aplicarDescuento(int precioProducto)
     return printf("%d",precioDescuento);
 
 
-    //return precioDescuento;
+
 }
 
 
