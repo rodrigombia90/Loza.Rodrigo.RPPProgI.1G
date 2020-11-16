@@ -84,7 +84,7 @@ int contarCaracteres(char cadenaCaracteres1[], char cadenaCaracteres2[])
 	int cantidad;
 	char car;
 
-	printf("Ingrese un car para comparar\n");
+	printf("Ingrese un palabra para comparar\n");
 	scanf("%c",&car);
 
 	for(int i = 0; i<strlen(cadenaCaracteres1);i++)
